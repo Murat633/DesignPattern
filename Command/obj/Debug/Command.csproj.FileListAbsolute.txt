@@ -1,0 +1,8 @@
+C:\Users\ASUS\source\repos\DesignPatterns\Command\bin\Debug\Command.exe.config
+C:\Users\ASUS\source\repos\DesignPatterns\Command\bin\Debug\Command.exe
+C:\Users\ASUS\source\repos\DesignPatterns\Command\bin\Debug\Command.pdb
+C:\Users\ASUS\source\repos\DesignPatterns\Command\obj\Debug\Command.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\DesignPatterns\Command\obj\Debug\Command.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\DesignPatterns\Command\obj\Debug\Command.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\DesignPatterns\Command\obj\Debug\Command.exe
+C:\Users\ASUS\source\repos\DesignPatterns\Command\obj\Debug\Command.pdb

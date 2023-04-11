@@ -1,0 +1,8 @@
+C:\Users\ASUS\source\repos\DesignPatterns\Strategy\bin\Debug\Strategy.exe.config
+C:\Users\ASUS\source\repos\DesignPatterns\Strategy\bin\Debug\Strategy.exe
+C:\Users\ASUS\source\repos\DesignPatterns\Strategy\bin\Debug\Strategy.pdb
+C:\Users\ASUS\source\repos\DesignPatterns\Strategy\obj\Debug\Strategy.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\DesignPatterns\Strategy\obj\Debug\Strategy.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\DesignPatterns\Strategy\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\DesignPatterns\Strategy\obj\Debug\Strategy.exe
+C:\Users\ASUS\source\repos\DesignPatterns\Strategy\obj\Debug\Strategy.pdb

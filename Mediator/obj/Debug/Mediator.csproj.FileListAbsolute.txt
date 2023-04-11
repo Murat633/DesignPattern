@@ -1,0 +1,8 @@
+C:\Users\ASUS\source\repos\DesignPatterns\Mediator\bin\Debug\Mediator.exe.config
+C:\Users\ASUS\source\repos\DesignPatterns\Mediator\bin\Debug\Mediator.exe
+C:\Users\ASUS\source\repos\DesignPatterns\Mediator\bin\Debug\Mediator.pdb
+C:\Users\ASUS\source\repos\DesignPatterns\Mediator\obj\Debug\Mediator.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\DesignPatterns\Mediator\obj\Debug\Mediator.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\DesignPatterns\Mediator\obj\Debug\Mediator.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\DesignPatterns\Mediator\obj\Debug\Mediator.exe
+C:\Users\ASUS\source\repos\DesignPatterns\Mediator\obj\Debug\Mediator.pdb

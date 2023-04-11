@@ -1,0 +1,8 @@
+C:\Users\ASUS\source\repos\DesignPatterns\Momento\bin\Debug\Momento.exe.config
+C:\Users\ASUS\source\repos\DesignPatterns\Momento\bin\Debug\Momento.exe
+C:\Users\ASUS\source\repos\DesignPatterns\Momento\bin\Debug\Momento.pdb
+C:\Users\ASUS\source\repos\DesignPatterns\Momento\obj\Debug\Momento.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\DesignPatterns\Momento\obj\Debug\Momento.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\DesignPatterns\Momento\obj\Debug\Momento.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\DesignPatterns\Momento\obj\Debug\Momento.exe
+C:\Users\ASUS\source\repos\DesignPatterns\Momento\obj\Debug\Momento.pdb

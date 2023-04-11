@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\DesignPatterns\DependecyInjection\bin\Debug\DependecyInjection.exe.config
+C:\Users\ASUS\source\repos\DesignPatterns\DependecyInjection\bin\Debug\DependecyInjection.exe
+C:\Users\ASUS\source\repos\DesignPatterns\DependecyInjection\bin\Debug\DependecyInjection.pdb
+C:\Users\ASUS\source\repos\DesignPatterns\DependecyInjection\obj\Debug\DependecyInjection.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\DesignPatterns\DependecyInjection\obj\Debug\DependecyInjection.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\DesignPatterns\DependecyInjection\obj\Debug\DependecyInjection.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\DesignPatterns\DependecyInjection\obj\Debug\DependecyInjection.exe
+C:\Users\ASUS\source\repos\DesignPatterns\DependecyInjection\obj\Debug\DependecyInjection.pdb
+C:\Users\ASUS\source\repos\DesignPatterns\DependecyInjection\bin\Debug\Ninject.dll
+C:\Users\ASUS\source\repos\DesignPatterns\DependecyInjection\bin\Debug\Ninject.xml
+C:\Users\ASUS\source\repos\DesignPatterns\DependecyInjection\obj\Debug\DependecyInjection.csproj.CopyComplete

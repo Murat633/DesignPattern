@@ -1,0 +1,8 @@
+C:\Users\ASUS\source\repos\DesignPatterns\TemplateMothod\bin\Debug\TemplateMothod.exe.config
+C:\Users\ASUS\source\repos\DesignPatterns\TemplateMothod\bin\Debug\TemplateMothod.exe
+C:\Users\ASUS\source\repos\DesignPatterns\TemplateMothod\bin\Debug\TemplateMothod.pdb
+C:\Users\ASUS\source\repos\DesignPatterns\TemplateMothod\obj\Debug\TemplateMothod.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\DesignPatterns\TemplateMothod\obj\Debug\TemplateMothod.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\DesignPatterns\TemplateMothod\obj\Debug\TemplateMothod.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\DesignPatterns\TemplateMothod\obj\Debug\TemplateMothod.exe
+C:\Users\ASUS\source\repos\DesignPatterns\TemplateMothod\obj\Debug\TemplateMothod.pdb

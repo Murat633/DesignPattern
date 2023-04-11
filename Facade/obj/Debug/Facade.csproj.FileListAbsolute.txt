@@ -1,0 +1,8 @@
+C:\Users\ASUS\source\repos\DesignPatterns\Facade\bin\Debug\Facade.exe.config
+C:\Users\ASUS\source\repos\DesignPatterns\Facade\bin\Debug\Facade.exe
+C:\Users\ASUS\source\repos\DesignPatterns\Facade\bin\Debug\Facade.pdb
+C:\Users\ASUS\source\repos\DesignPatterns\Facade\obj\Debug\Facade.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\DesignPatterns\Facade\obj\Debug\Facade.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\DesignPatterns\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\DesignPatterns\Facade\obj\Debug\Facade.exe
+C:\Users\ASUS\source\repos\DesignPatterns\Facade\obj\Debug\Facade.pdb
